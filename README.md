@@ -85,7 +85,7 @@ Key metrics:
 - Monthly Revenue
 - Revenue Growth
 
-![Monthly Revenue Trend](images/Monthly_Revenue_Trend.png)
+![Monthly Revenue Trend](https://github.com/DataDrivenBAinsights/Olist-Ecommerce-SQL-Business-Analysis/blob/main/images/Monthly%20Revenue%20Trend.png?raw=true)
 
 **Business Question:** How has the marketplace's revenue and order volume grown month over month, and is that growth stable?
 
