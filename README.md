@@ -108,7 +108,7 @@ Key metrics:
 - Average Customer Spend
 - Customer Segments
 
-![Customer Segmentation](images/Customer_Segmentation.png)
+![Customer Segmentation](https://github.com/DataDrivenBAinsights/Olist-Ecommerce-SQL-Business-Analysis/blob/main/images/Customer%20Segmentation.png?raw=true)
 
 **Business Question:** How is the customer base segmented by value and loyalty, and where is the biggest retention opportunity?
 
