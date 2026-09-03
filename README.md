@@ -91,7 +91,7 @@ Key metrics:
 
 **Insight:** Revenue climbed from a handful of orders in late 2016 to a peak of roughly R$1.19M across 7,544 orders by November 2017, before growth flattened and became more volatile through 2018 (e.g., a sharp dip to just 16 orders/R$4,439 in September 2018, likely a data cutoff or reporting gap rather than a real sales crash). The business scaled quickly in its first year, but growth is no longer consistently accelerating — a signal to investigate what drove the 2017 surge and whether it can be replicated.
 
-![State-wise Revenue Analysis](images/State_wise_Revenue_Analysis.png)
+![State-wise Revenue Analysis](https://github.com/DataDrivenBAinsights/Olist-Ecommerce-SQL-Business-Analysis/blob/main/images/State%20wise%20Revenue%20Analysis.png?raw=true)
 
 **Business Question:** Which states drive the most revenue, and how concentrated is that revenue geographically?
 
