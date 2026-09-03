@@ -175,7 +175,7 @@ Metrics analyzed:
 - Reviews by Seller
 - Review Score vs Delivery Performance
 
-![Customer Satisfaction KPIs](images/Customer_Satisfaction_KPIs.png)
+![Customer Satisfaction KPIs](https://github.com/DataDrivenBAinsights/Olist-Ecommerce-SQL-Business-Analysis/blob/main/images/Customer%20Satisfaction%20KPIs.png?raw=true)
 
 **Business Question:** How satisfied are customers overall, and does that satisfaction line up with delivery performance?
 
