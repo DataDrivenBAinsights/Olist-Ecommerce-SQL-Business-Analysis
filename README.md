@@ -375,4 +375,6 @@ The overall workflow was:
 
 Aspiring Business Analyst / Data Analyst
 
-**Skills:** SQL • Data Analysis • Business Intelligence • KPI Development • Business Strategy
+**Skills:** 
+
+SQL • Data Analysis • Business Intelligence • KPI Development • Business Strategy
