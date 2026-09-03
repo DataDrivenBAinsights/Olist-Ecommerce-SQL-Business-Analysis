@@ -202,21 +202,6 @@ Executive KPIs:
 
 **Insight:** The marketplace has generated R$19.88M in total revenue across 96,475 orders (avg. order value R$206.08), served by 2,970 sellers and 32,214 products, with a strong 92.17% on-time delivery rate and 4/5 average review. The one alarming figure is a 0.00% repeat-customer rate — confirming the Customer Segmentation finding that this business currently runs entirely on one-time purchases, making customer retention the top strategic priority.
 
-### Monthly Business Performance
-
-Tracks:
-
-- Total Revenue
-- Total Orders
-- Total Customers
-- Average Order Value
-- Revenue Growth %
-- Order Growth %
-
-**Business Question:** How consistent is month-over-month growth in revenue and order count?
-
-**Insight:** Growth is highly volatile month to month — e.g., +705,751% in Jan 2017 (from a near-zero base) down to swings like -26.49% in Dec 2017 and -10.99% in Feb 2018 — indicating the business has not yet reached a stable, predictable growth pattern and would benefit from smoothing demand through marketing calendars or promotions timed to historically weak months.
-
 ### Marketplace Health Score
 
 The score combines:
@@ -228,7 +213,7 @@ The score combines:
 | On-Time Delivery | 20% |
 | Repeat Customer Rate | 20% |
 
-![Marketplace Health Score](images/Marketplace_Health.png)
+![Marketplace Health Score](https://github.com/DataDrivenBAinsights/Olist-Ecommerce-SQL-Business-Analysis/blob/main/images/Marketplace%20Health.png?raw=true)
 
 **Business Question:** Combining growth, satisfaction, delivery, and retention into one score, how is overall marketplace health trending over time?
 
