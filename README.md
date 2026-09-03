@@ -141,7 +141,7 @@ The analysis evaluates sellers based on:
 - Delivery performance
 - Revenue contribution
 
-![Seller Analysis - Top 15 Sellers](images/Seller_Analysis_Top_15_.png)
+![Seller Analysis - Top 15 Sellers](https://github.com/DataDrivenBAinsights/Olist-Ecommerce-SQL-Business-Analysis/blob/main/images/Seller%20Analysis(Top%2015).png?raw=true)
 
 **Business Question:** Which sellers contribute the most revenue, and how much does the marketplace depend on a small group of top performers?
 
