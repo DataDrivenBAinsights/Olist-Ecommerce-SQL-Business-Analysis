@@ -196,7 +196,7 @@ Executive KPIs:
 - On-Time Delivery Rate
 - Repeat Customer Rate
 
-![Executive KPIs](images/Executive_KPIs.png)
+![Executive KPIs](https://github.com/DataDrivenBAinsights/Olist-Ecommerce-SQL-Business-Analysis/blob/main/images/Executive%20KPIs.png?raw=true)
 
 **Business Question:** At a glance, how healthy is the overall business — revenue, scale, delivery, and retention?
 
