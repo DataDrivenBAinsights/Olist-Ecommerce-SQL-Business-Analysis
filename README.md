@@ -158,7 +158,7 @@ Logistics KPIs:
 - Average Shipping Time
 - Average Freight Cost
 
-![Logistics KPI Summary](images/Logistics_KPI_Summary.png)
+![Logistics KPI Summary](https://github.com/DataDrivenBAinsights/Olist-Ecommerce-SQL-Business-Analysis/blob/main/images/Logistics%20KPI%20Summary.png?raw=true)
 
 **Business Question:** How efficient is the delivery process, and what share of orders arrive late?
 
