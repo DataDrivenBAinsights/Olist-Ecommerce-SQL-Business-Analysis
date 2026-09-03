@@ -221,7 +221,7 @@ The score combines:
 
 ## Business Opportunities & Decision Support
 
-![Business Opportunities Dashboard](images/Business_Opportunities_Dashboard.png)
+![Business Opportunities Dashboard](https://github.com/DataDrivenBAinsights/Olist-Ecommerce-SQL-Business-Analysis/blob/main/images/Business%20Opportunities%20Dashboard.png?raw=true)
 
 **Business Question:** Across every dimension of the business, what are the single best/worst performers and where is the biggest opportunity?
 
