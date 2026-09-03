@@ -64,7 +64,7 @@ Checks included:
 - Carrier pickup occurring before order approval
 - Inconsistent order statuses
 
-![Data Quality Checks](images/Data_Quality_Checks.png)
+![Data Quality Checks](https://github.com/DataDrivenBAinsights/Olist-Ecommerce-SQL-Business-Analysis/blob/main/images/Data%20Quality%20Checks.png?raw=true)
 
 **Business Question:** Is the underlying order, customer, product, and seller data reliable enough to base business decisions on?
 
@@ -387,6 +387,7 @@ The overall workflow was:
 ## Author
 
 **Lokesh**
+
 Aspiring Business Analyst / Data Analyst
 
 **Skills:** SQL • Data Analysis • Business Intelligence • KPI Development • Business Strategy
