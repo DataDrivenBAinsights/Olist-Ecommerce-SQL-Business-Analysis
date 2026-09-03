@@ -227,7 +227,7 @@ The score combines:
 
 **Insight:** This dashboard consolidates the "best of" findings: SP leads in both expansion (highest revenue region) and overall state revenue; one seller (ID ending `b3b52b2`) stands out at R$249,640.70 in revenue; health_beauty is the top revenue category (R$1.44M) while cds_dvds_musicals earns the highest average rating (4.64); and kitchen_dining_laundry_garden_furniture shows an alarming -93.28% month-over-month revenue decline, flagging it for review. Most notably, "Customer Retention" is explicitly ranked the #1 business priority, driven by 93,099 one-time customers — the largest single opportunity in the dataset — while the lowest average review score (2.50) marks customer satisfaction as the highest operational risk.
 
-![Business Decision Logic](images/Business_Descision_Logic.png)
+![Business Decision Logic](https://github.com/DataDrivenBAinsights/Olist-Ecommerce-SQL-Business-Analysis/blob/main/images/Business%20Descision%20Logic.png?raw=true)
 
 **Business Question:** Based on the underlying analysis, which segment, category, seller, state, and region should management prioritize decisions around?
 
