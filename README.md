@@ -125,7 +125,7 @@ Key metrics:
 - Product Ratings
 - Category Performance
 
-![Product Analysis - Top 25 Categories](images/Product_Analysis_Top_25_.png)
+![Product Analysis - Top 25 Categories](https://github.com/DataDrivenBAinsights/Olist-Ecommerce-SQL-Business-Analysis/blob/main/images/Product%20Analysis(Top%2025).png?raw=true)
 
 **Business Question:** Which product categories generate the most revenue, and how do price, shipping cost, and order volume vary across them?
 
