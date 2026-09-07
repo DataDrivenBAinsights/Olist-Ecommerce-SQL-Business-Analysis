@@ -378,3 +378,7 @@ Aspiring Business Analyst / Data Analyst
 **Skills:** 
 
 SQL • Data Analysis • Business Intelligence • KPI Development • Business Strategy
+
+**Contact**
+
+Linkedin https://www.linkedin.com/in/lokesh-yadav-49b33b2a0/
