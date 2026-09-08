@@ -382,4 +382,5 @@ SQL • Data Analysis • Business Intelligence • KPI Development • Business
 **Contact**
 
 Linkedin https://www.linkedin.com/in/lokesh-yadav-49b33b2a0/
+
 Email lokeshydv0722@gmail.com
