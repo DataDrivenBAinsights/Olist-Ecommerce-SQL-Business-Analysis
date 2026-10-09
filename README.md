@@ -137,9 +137,8 @@ The analysis evaluates sellers based on:
 
 - Revenue
 - Order volume
-- Products sold
+- Total products
 - Avg order value
-- 
 
 ![Seller Analysis - Top 15 Sellers](https://github.com/DataDrivenBAinsights/Olist-Ecommerce-SQL-Business-Analysis/blob/main/images/Seller%20Analysis(Top%2015).png?raw=true)
 
