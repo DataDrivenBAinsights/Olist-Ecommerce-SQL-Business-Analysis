@@ -89,13 +89,13 @@ Key metrics:
 
 **Business Question:** How has the marketplace's revenue and order volume grown month over month, and is that growth stable?
 
-**Insight:** Revenue climbed from a handful of orders in late 2016 to a peak of roughly R$1.19M across 7,544 orders by November 2017, before growth flattened and became more volatile through 2018 (e.g., a sharp dip to just 16 orders/R$4,439 in September 2018, likely a data cutoff or reporting gap rather than a real sales crash). The business scaled quickly in its first year, but growth is no longer consistently accelerating — a signal to investigate what drove the 2017 surge and whether it can be replicated.
+**Insight:** Revenue climbed from a handful of orders in late 2016 to a peak of roughly $1.19M across 7,544 orders by November 2017, before growth flattened and became more volatile through 2018 (e.g., a sharp dip to just 16 orders/$4,439 in September 2018, likely a data cutoff or reporting gap rather than a real sales crash). The business scaled quickly in its first year, but growth is no longer consistently accelerating — a signal to investigate what drove the 2017 surge and whether it can be replicated.
 
 ![State-wise Revenue Analysis](https://github.com/DataDrivenBAinsights/Olist-Ecommerce-SQL-Business-Analysis/blob/main/images/State%20wise%20Revenue%20Analysis.png?raw=true)
 
 **Business Question:** Which states drive the most revenue, and how concentrated is that revenue geographically?
 
-**Insight:** São Paulo (SP) alone contributes 37.47% of total revenue (R$5.99M), and together with Rio de Janeiro (13.39%) and Minas Gerais (11.7%), the top three states account for over 62% of all revenue. This is a meaningful geographic concentration risk — any disruption in SP's logistics or demand would materially hurt the whole marketplace, which supports the recommendation to expand seller/customer coverage in mid-tier states like RS, PR, and SC.
+**Insight:** São Paulo (SP) alone contributes 37.47% of total revenue ($5.99M), and together with Rio de Janeiro (13.39%) and Minas Gerais (11.7%), the top three states account for over 62% of all revenue. This is a meaningful geographic concentration risk — any disruption in SP's logistics or demand would materially hurt the whole marketplace, which supports the recommendation to expand seller/customer coverage in mid-tier states like RS, PR, and SC.
 
 ### Customer Analysis
 
@@ -129,7 +129,7 @@ Key metrics:
 
 **Business Question:** Which product categories generate the most revenue, and how do price, shipping cost, and order volume vary across them?
 
-**Insight:** bed_bath_table (R$1.24M), health_beauty (R$1.44M) and sports_leisure (R$1.16M) are the clear revenue leaders, but they get there differently — health_beauty earns more per order (avg. price ~R$130) on fewer units, while bed_bath_table relies on higher volume (11,823 orders) at a lower average price (~R$92). Shipping costs stay fairly consistent (R$15–24) across most categories, so category profitability is driven more by price point and volume than by logistics cost.
+**Insight:** bed_bath_table (R$1.24M), health_beauty ($1.44M) and sports_leisure ($1.16M) are the clear revenue leaders, but they get there differently — health_beauty earns more per order (avg. price ~R$130) on fewer units, while bed_bath_table relies on higher volume (11,823 orders) at a lower average price (~$92). Shipping costs stay fairly consistent (R$15–24) across most categories, so category profitability is driven more by price point and volume than by logistics cost.
 
 ### Seller Analysis
 
@@ -137,15 +137,15 @@ The analysis evaluates sellers based on:
 
 - Revenue
 - Order volume
-- Customer ratings
-- Delivery performance
-- Revenue contribution
+- Products sold
+- Avg order value
+- 
 
 ![Seller Analysis - Top 15 Sellers](https://github.com/DataDrivenBAinsights/Olist-Ecommerce-SQL-Business-Analysis/blob/main/images/Seller%20Analysis(Top%2015).png?raw=true)
 
 **Business Question:** Which sellers contribute the most revenue, and how much does the marketplace depend on a small group of top performers?
 
-**Insight:** The top seller alone generated R$229,472 in revenue from 1,156 orders, and the top 15 sellers collectively account for a large share of total marketplace revenue despite the platform having 2,970 total sellers. This heavy reliance on a small number of high-performing sellers is a seller-concentration risk — losing even one or two top sellers could create a noticeable revenue gap, reinforcing the recommendation to actively support and retain top-performing sellers while growing mid-tier seller performance.
+**Insight:** The top seller alone generated $229,472 in revenue from 1,156 orders, and the top 15 sellers collectively account for a large share of total marketplace revenue despite the platform having 2,970 total sellers. This heavy reliance on a small number of high-performing sellers is a seller-concentration risk — losing even one or two top sellers could create a noticeable revenue gap, reinforcing the recommendation to actively support and retain top-performing sellers while growing mid-tier seller performance.
 
 ### Logistics Analysis
 
@@ -200,7 +200,7 @@ Executive KPIs:
 
 **Business Question:** At a glance, how healthy is the overall business — revenue, scale, delivery, and retention?
 
-**Insight:** The marketplace has generated R$19.88M in total revenue across 96,475 orders (avg. order value R$206.08), served by 2,970 sellers and 32,214 products, with a strong 92.17% on-time delivery rate and 4/5 average review. The one alarming figure is a 0.00% repeat-customer rate — confirming the Customer Segmentation finding that this business currently runs entirely on one-time purchases, making customer retention the top strategic priority.
+**Insight:** The marketplace has generated $19.88M in total revenue across 96,475 orders (avg. order value $206.08), served by 2,970 sellers and 32,214 products, with a strong 92.17% on-time delivery rate and 4/5 average review. The one alarming figure is a 0.00% repeat-customer rate — confirming the Customer Segmentation finding that this business currently runs entirely on one-time purchases, making customer retention the top strategic priority.
 
 ### Marketplace Health Score
 
@@ -225,7 +225,7 @@ The score combines:
 
 **Business Question:** Across every dimension of the business, what are the single best/worst performers and where is the biggest opportunity?
 
-**Insight:** This dashboard consolidates the "best of" findings: SP leads in both expansion (highest revenue region) and overall state revenue; one seller (ID ending `b3b52b2`) stands out at R$249,640.70 in revenue; health_beauty is the top revenue category (R$1.44M) while cds_dvds_musicals earns the highest average rating (4.64); and kitchen_dining_laundry_garden_furniture shows an alarming -93.28% month-over-month revenue decline, flagging it for review. Most notably, "Customer Retention" is explicitly ranked the #1 business priority, driven by 93,099 one-time customers — the largest single opportunity in the dataset — while the lowest average review score (2.50) marks customer satisfaction as the highest operational risk.
+**Insight:** This dashboard consolidates the "best of" findings: SP leads in both expansion (highest revenue region) and overall state revenue; one seller (ID ending `b3b52b2`) stands out at $249,640.70 in revenue; health_beauty is the top revenue category (R$1.44M) while cds_dvds_musicals earns the highest average rating (4.64); and kitchen_dining_laundry_garden_furniture shows an alarming -93.28% month-over-month revenue decline, flagging it for review. Most notably, "Customer Retention" is explicitly ranked the #1 business priority, driven by 93,099 one-time customers — the largest single opportunity in the dataset — while the lowest average review score (2.50) marks customer satisfaction as the highest operational risk.
 
 ![Business Decision Logic](https://github.com/DataDrivenBAinsights/Olist-Ecommerce-SQL-Business-Analysis/blob/main/images/Business%20Descision%20Logic.png?raw=true)
 
